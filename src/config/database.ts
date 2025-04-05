@@ -1,0 +1,1 @@
+// This file handles the datatbase connections configuration to the SQLite database
