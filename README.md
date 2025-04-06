@@ -195,5 +195,5 @@ Express.js community for the excellent framework
 TypeScript team for the type safety
 
 Contact
-Project Link: https://github.com/your-username/book-api
+Project Link: https://github.com/Mikekilian95/Book-Catalog-REST-API.git
 This project was created as part of the NETGEAR Cloud Systems Technical Assessment.
