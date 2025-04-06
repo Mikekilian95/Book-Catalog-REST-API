@@ -1,4 +1,6 @@
 // Integration test for the routes and API flow
+// Test the route handlers in conjunction with the database to ensure the entire request-response flow works as expected (e.g., creating and retrieving books via actual HTTP requests).
+// Suggested but not yet implemented
 
 
 
