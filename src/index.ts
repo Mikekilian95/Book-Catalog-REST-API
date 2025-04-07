@@ -21,6 +21,11 @@ app.use(cors()); // cross origin resource sharing
 app.use(express.json()); // makes use of the express middelware to parse the json between the request and response 
 app.use(express.urlencoded({ extended: true }));
 
+
+app.get('/', (req, res) => {
+  res.send('Welcome to the NetGear Book API! Please use the /api/books endpoint to access the API.');
+});
+
 // Routes
 app.use('/api/books', bookRoutes);
 

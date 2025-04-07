@@ -1,1 +1,0 @@
-{"root":["./src/index.ts","./src/config/db.ts","./src/config/env.ts","./src/controllers/bookcontroller.ts","./src/middleware/errormiddleware.ts","./src/middleware/validationmiddleware.ts","./src/models/book.ts","./src/routes/bookroutes.ts","./src/types/book.types.ts","./src/utils/logger.ts"],"version":"5.8.3"}
