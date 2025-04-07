@@ -22,9 +22,9 @@ app.use(express.json()); // makes use of the express middelware to parse the jso
 app.use(express.urlencoded({ extended: true }));
 
 
-app.get('/', (req, res) => {
-  res.send('Welcome to the NetGear Book API! Please use the /api/books endpoint to access the API.');
-});
+// app.get('/', (req, res) => {
+//   res.send('Welcome to the NetGear Book API! Please use the /api/books endpoint to access the API.');
+// });
 
 // Routes
 app.use('/api/books', bookRoutes);
